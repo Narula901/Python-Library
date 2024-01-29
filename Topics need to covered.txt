@@ -1,1 +1,2 @@
 1. Time Series Data
+2. Decision Tree, Bagging, Random Forest, Gradient Descent, AdaBoost, XGBoost 
